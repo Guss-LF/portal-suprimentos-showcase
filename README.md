@@ -31,11 +31,23 @@ Um portal web, acessado por login, com áreas e permissões diferentes para cada
 
 ## Screenshots
 
-*(inserir aqui prints das telas principais — dashboard, login, divisão de obras, relatório em PDF — usando dados fictícios, ex: "Obra Alfa", "Fornecedor XPTO")*
-
-| Dashboard | Divisão de Obras | Relatório PDF |
+| Dashboard | Divisão de Obras | Mapas de Cotação |
 |---|---|---|
-| _print aqui_ | _print aqui_ | _print aqui_ |
+| ![Dashboard](screenshots/dashboard.png) | ![Divisão de Obras](screenshots/divisao-obras.png) | ![Mapas de Cotação](screenshots/mapas-cotacao.png) |
+
+<details>
+<summary>Ver mais telas (Login, Projetos, Pendências de NF)</summary>
+
+**Login**
+![Login](screenshots/login.png)
+
+**Projetos**
+![Projetos](screenshots/projetos.png)
+
+**Pendências de NF**
+![Pendências de NF](screenshots/pendencias-nf.png)
+
+</details>
 
 ## Stack técnico
 
@@ -57,3 +69,4 @@ Eu não parti de um requisito formal — identifiquei o problema no meu próprio
 
 ---
 
+*Quer saber mais sobre decisões de arquitetura, modelagem do banco ou desafios específicos? Fico à disposição para conversar em detalhe.*
