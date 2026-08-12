@@ -1,6 +1,6 @@
 # Portal de Suprimentos
 
-> Case study de um sistema de gestão de compras desenvolvido para uso interno em uma construtora, com dashboard de indicadores, controle de acesso por usuário e acompanhamento de pontualidade de fornecedores em 15 obras simultâneas.
+> Case study de um sistema de gestão de compras desenvolvido para uso interno em uma construtora, com dashboard de indicadores, controle de acesso por usuário e acompanhamento de pontualidade de fornecedores e obras simultâneas.
 
 **Status:** em produção, uso diário pela equipe de Suprimentos
 **Meu papel:** projetado e desenvolvido individualmente, do zero — da modelagem do banco de dados à interface
@@ -53,8 +53,7 @@ Um portal web, acessado por login, com áreas e permissões diferentes para cada
 
 ## O que esse projeto mostra sobre como eu trabalho
 
-Eu não parti de um requisito formal — identifiquei o problema no meu próprio dia a dia como comprador, desenhei a solução e construí sozinho, do banco de dados à interface, entregando uma ferramenta que a equipe usa todos os dias. É o mesmo processo que apliquei em outros projetos do meu portfólio (Futebol MPH, KICKOUT), sempre unindo experiência prática do problema de negócio com a construção da solução técnica.
+Eu não parti de um requisito formal — identifiquei o problema no meu próprio dia a dia como comprador, desenhei a solução e construí sozinho, do banco de dados à interface, entregando uma ferramenta que a equipe usa todos os dias. É o mesmo processo que apliquei em outros projetos, sempre unindo experiência prática do problema de negócio com a construção da solução técnica.
 
 ---
 
-*Quer saber mais sobre decisões de arquitetura, modelagem do banco ou desafios específicos? Fico à disposição para conversar em detalhe.*
