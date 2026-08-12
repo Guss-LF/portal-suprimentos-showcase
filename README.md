@@ -35,19 +35,9 @@ Um portal web, acessado por login, com áreas e permissões diferentes para cada
 |---|---|---|
 | ![Dashboard](screenshots/dashboard.png) | ![Divisão de Obras](screenshots/divisao-obras.png) | ![Mapas de Cotação](screenshots/mapas-cotacao.png) |
 
-<details>
-<summary>Ver mais telas (Login, Projetos, Pendências de NF)</summary>
-
-**Login**
-![Login](screenshots/login.png)
-
-**Projetos**
-![Projetos](screenshots/projetos.png)
-
-**Pendências de NF**
-![Pendências de NF](screenshots/pendencias-nf.png)
-
-</details>
+| Login | Projetos | Pendências de NF |
+|---|---|---|
+| ![Login](screenshots/login.png) | ![Projetos](screenshots/projetos.png) | ![Pendências de NF](screenshots/pendencias-nf.png) |
 
 ## Stack técnico
 
